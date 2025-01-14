@@ -1,19 +1,24 @@
 # powerBI-basics
 Some notes on using Microsoft Power BI for beginners.
 
-What is PowerBI?
+<b>What is PowerBI?</b>
 
 "Microsoft Power BI is a suite of tools and services within Microsoft Fabric that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025). It's particularly good for enterprise-scale business analytics because it is "an integrated solution that can support complex data modeling, interactive reporting, and secure sharing" (Microsoft Learn, 2025).
 
 So, there are many tools for doing data visualization, but this one is well-suited for larger business environments.
 
+<b>The Difference Between PowerBI Desktop and PowerBI Service</b>
+
+The bulk of your work with PowerBI as a designer or analyst will be in PowerBI desktop, which you download and keep locally. Desktop is where you will import data, construct models and then the reports.
+
+PowerBI service is where you upload these so others can interact and share them (in accordance with permissions set).
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This project covers the prerequisites and installation of the open-source help desk ticketing system osTicket. It's a bit complex and each time I go through it, I'll try to add more details here for others.<br />
+This project.....s.<br />
 
 
 <h2>Environments and Technologies Used</h2>
