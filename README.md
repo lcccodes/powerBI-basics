@@ -9,9 +9,9 @@ So, there are many tools for doing data visualization, but this one is well-suit
 
 <b>The Difference Between PowerBI Desktop and PowerBI Service</b>
 
-The bulk of your work with PowerBI as a designer or analyst will be in PowerBI desktop, which you download and keep locally. Desktop is where you will import data, construct models and then the reports.
+The bulk of your work with PowerBI as a designer or analyst will be in PowerBI desktop, which is a Microsoft Windows application and sits locally. Desktop is where you will import data, construct models and then the reports.
 
-PowerBI service is where you upload these so others can interact and share them (in accordance with permissions set).
+PowerBI Service sits on the cloud and is where you upload your reports so others can interact and share them (in accordance with permissions set).
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
