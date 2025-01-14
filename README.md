@@ -1,5 +1,7 @@
 # powerBI-basics
-Some notes on installing OSTicket within an Azure VM.
+Some notes on using Microsoft Power BI for beginners.
+
+What is PowerBI?
 
 "Microsoft Power BI is a suite of tools and services within Microsoft Fabric that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025).
 
