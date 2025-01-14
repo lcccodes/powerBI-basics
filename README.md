@@ -1,7 +1,7 @@
 # powerBI-basics
 Some notes on using Microsoft Power BI for absolute beginners.
 
-<b>What is PowerBI?</b>
+<h3><b>What is PowerBI?</b></h3>>
 
 "BI" stands for "Business Intelligence." It's "a suite of tools and services within <b>Microsoft Fabric</b> that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025). 
 
