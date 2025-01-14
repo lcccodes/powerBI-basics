@@ -3,7 +3,10 @@ Some notes on using Microsoft Power BI for beginners.
 
 What is PowerBI?
 
-"Microsoft Power BI is a suite of tools and services within Microsoft Fabric that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025).
+"Microsoft Power BI is a suite of tools and services within Microsoft Fabric that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025). It's particularly good for enterprise-scale business analytics because it is "an integrated solution that can support complex data modeling, interactive reporting, and secure sharing" (Microsoft Learn, 2025).
+
+So, there are many tools for doing data visualization, but this one is well-suited for larger business environments.
+
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
