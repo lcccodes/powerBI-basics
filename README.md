@@ -7,11 +7,13 @@ Some notes on using Microsoft Power BI for beginners.
 
 So, there are many tools for doing data visualization, but this one is well-suited for larger business environments.
 
-<b>The Difference Between PowerBI Desktop and PowerBI Service</b>
+<b>The Difference Between PowerBI Desktop and PowerBI Service, and Mobile apps</b>
 
 The bulk of your work with PowerBI as a designer or analyst will be in PowerBI desktop, which is a Microsoft Windows application and sits locally. Desktop is where you will import data, construct models and then the reports.
 
 PowerBI Service sits on the cloud and is where you upload your reports so others can interact and share them (in accordance with permissions set).
+
+PowerBI on various mobile devices is primarily just for accessing the reports and dashboards hosted on PowerBI service.
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
