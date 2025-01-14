@@ -1,7 +1,7 @@
 # powerBI-basics
 Some notes on using Microsoft Power BI for absolute beginners.
 
-<h3><b>What is PowerBI?</b></h3>>
+<h3><b>What is PowerBI?</b></h3>
 
 "BI" stands for "Business Intelligence." It's "a suite of tools and services within <b>Microsoft Fabric</b> that data analysts can use to build interactive data visualizations" (Microsft Learn, 2025). 
 
@@ -12,7 +12,7 @@ It's a good choice for enterprise-scale business analytics because it's "an inte
 
 
 
-<b>The Difference Between PowerBI Desktop, PowerBI Service, and PowerBI mobile apps</b>
+<h3><b>The Difference Between PowerBI Desktop, PowerBI Service, and PowerBI mobile apps</b></h3>
 
 The bulk of your work with PowerBI as a designer or analyst will be in PowerBI desktop, which is a Microsoft Windows application and sits locally. Desktop is where you will import data, construct models and then the reports.
 
